@@ -4,8 +4,8 @@ Author URI: http://accedeme.com
 Plugin URL: http://accedeme.com/plugins/wordpress/wp-accedeme.zip
 Tags: accedeme, accesibilidad, a11y, WCAG, Section 508, accesibilidad web, discapacitado, invidente, ciego, manco, widget accesibilidad, plugin accesibilidad, contraste, tamaño texto, cursor, navegar con el teclado, saturacion del color, fuentes legibles
 Requires at least: 4.7
-Tested up to: 6.8
-Stable tag: 0.7.2
+Tested up to: 6.9
+Stable tag: 0.7.3
 Requires PHP: 7.0
 License: GPLv3 or later.
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -135,6 +135,8 @@ Terms and conditions - https://accedeme.com/payment-terms
 Accessibility statement - https://accedeme.com/accessibility-statement
 
 == Changelog ==
+= 0.7.3 =
+* Añade compatibilidad con WP 6.9 - WP 6.9 compatibility enhanced
 = 0.7 =
 * Añade compatibilidad con WP 6.8 - WP 6.8 compatibility enhanced
 = 0.6 =
@@ -152,6 +154,8 @@ Accessibility statement - https://accedeme.com/accessibility-statement
 
 
 == Upgrade Notice ==
+= 0.7.3 =
+Añade compatibilidad con WP 6.9 - WP 6.9 compatibility enhanced
 = 0.7 =
 Añade compatibilidad con WP 6.8 - WP 6.8 compatibility enhanced
 = 0.6 =
